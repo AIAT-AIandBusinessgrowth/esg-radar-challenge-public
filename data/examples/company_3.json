@@ -1,0 +1,19 @@
+{
+  "_hinweis": "synthetisch / vereinfacht, Stand 2026-06 — keine offizielle AI:AT-Position",
+  "firma": "PlatePro GmbH",
+  "branche": "Metallerzeugung",
+  "land": "DE",
+  "sektor_esrs": "ESRS E1",
+  "berichtsjahr": 2023,
+  "ghg_scope1_t_co2e": 29000,
+  "ghg_scope2_t_co2e": 4800,
+  "ghg_scope3_t_co2e": 38000,
+  "energie_gesamt_mwh": 110000,
+  "anteil_erneuerbar_prozent": 6,
+  "frauenquote_fuehrung_prozent": 11,
+  "mitarbeiterzahl": 1400,
+  "unfaelle_pro_1000_ma": 7.2,
+  "csrd_pflichtig_ab": 2024,
+  "nachhaltigkeitsbericht_vorhanden": false,
+  "kommentar": "Pflichtbericht ab 2024; kein internes ESG-Team; dringender Handlungsbedarf."
+}

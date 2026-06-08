@@ -1,0 +1,19 @@
+{
+  "_hinweis": "synthetisch / vereinfacht, Stand 2026-06 — keine offizielle AI:AT-Position",
+  "firma": "NordFleet GmbH",
+  "branche": "Transport & Logistik",
+  "land": "AT",
+  "sektor_esrs": "ESRS S1",
+  "berichtsjahr": 2023,
+  "ghg_scope1_t_co2e": 5800,
+  "ghg_scope2_t_co2e": 1100,
+  "ghg_scope3_t_co2e": null,
+  "energie_gesamt_mwh": 24000,
+  "anteil_erneuerbar_prozent": 5,
+  "frauenquote_fuehrung_prozent": 12,
+  "mitarbeiterzahl": 420,
+  "unfaelle_pro_1000_ma": 5.1,
+  "csrd_pflichtig_ab": 2025,
+  "nachhaltigkeitsbericht_vorhanden": false,
+  "kommentar": "Flotte noch vollständig diesel-basiert; kein Nachhaltigkeitsbericht."
+}

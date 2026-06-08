@@ -1,0 +1,28 @@
+# Interne Orchestrierung / Tooling (nicht für Kandidat:innen)
+.orchestrator/
+.claude/
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+.pytest_cache/
+.ruff_cache/
+.mypy_cache/
+
+# Abhängigkeiten / Build-Artefakte
+node_modules/
+dist/
+build/
+
+# Secrets / lokale Umgebung
+.env
+.env.local
+
+# OS / Editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

@@ -1,0 +1,19 @@
+{
+  "_hinweis": "synthetisch / vereinfacht, Stand 2026-06 — keine offizielle AI:AT-Position",
+  "firma": "CleanMat Solutions AG",
+  "branche": "Bauwesen",
+  "land": "DE",
+  "sektor_esrs": "ESRS E1",
+  "berichtsjahr": 2023,
+  "ghg_scope1_t_co2e": 2200,
+  "ghg_scope2_t_co2e": 380,
+  "ghg_scope3_t_co2e": 11500,
+  "energie_gesamt_mwh": 9100,
+  "anteil_erneuerbar_prozent": 42,
+  "frauenquote_fuehrung_prozent": 22,
+  "mitarbeiterzahl": 290,
+  "unfaelle_pro_1000_ma": 3.3,
+  "csrd_pflichtig_ab": 2026,
+  "nachhaltigkeitsbericht_vorhanden": true,
+  "kommentar": "Bericht nach GRI-Standard; Scope-3 hoch durch Materialbeschaffung."
+}

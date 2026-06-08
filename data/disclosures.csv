@@ -1,0 +1,6 @@
+firma,branche,land,sektor_esrs,berichtsjahr,ghg_scope1_t_co2e,ghg_scope2_t_co2e,ghg_scope3_t_co2e,energie_gesamt_mwh,anteil_erneuerbar_prozent,frauenquote_fuehrung_prozent,mitarbeiterzahl,unfaelle_pro_1000_ma,csrd_pflichtig_ab,nachhaltigkeitsbericht_vorhanden
+AlpineLogistik GmbH,Transport & Logistik,AT,ESRS S1,2023,4200,810,,18500,12,18,340,4.2,2025,false
+GreenBuild AG,Bauwesen,DE,ESRS E1,2023,1850,430,9200,7400,54,29,210,2.1,2026,true
+FoodFuture SRL,Lebensmittelverarbeitung,IT,ESRS E2,2023,620,290,3100,3200,38,41,85,1.4,2027,false
+UrbanTech GmbH,Software / IT,AT,ESRS G1,2023,45,180,920,820,91,33,62,0.0,,false
+SteelCore SE,Metallerzeugung,DE,ESRS E1,2023,38400,6200,51000,142000,8,14,1850,6.8,2024,true
