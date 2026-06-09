@@ -1,6 +1,6 @@
 [
   {
-    "_hinweis": "synthetisch / vereinfacht, Stand 2026-06 — keine offizielle AI:AT-Position",
+    "_hinweis": "synthetisch / vereinfacht, Stand 2026-06, keine offizielle AI:AT-Position",
     "sektor": "Transport & Logistik",
     "sektor_esrs": "ESRS S1",
     "benchmark_ghg_intensitaet_t_co2e_pro_ma": 14.0,
@@ -10,7 +10,7 @@
     "quelle": "synthetisch, angelehnt an EU-Branchendurchschnitte"
   },
   {
-    "_hinweis": "synthetisch / vereinfacht, Stand 2026-06 — keine offizielle AI:AT-Position",
+    "_hinweis": "synthetisch / vereinfacht, Stand 2026-06, keine offizielle AI:AT-Position",
     "sektor": "Bauwesen",
     "sektor_esrs": "ESRS E1",
     "benchmark_ghg_intensitaet_t_co2e_pro_ma": 12.5,
@@ -20,7 +20,7 @@
     "quelle": "synthetisch, angelehnt an EU-Branchendurchschnitte"
   },
   {
-    "_hinweis": "synthetisch / vereinfacht, Stand 2026-06 — keine offizielle AI:AT-Position",
+    "_hinweis": "synthetisch / vereinfacht, Stand 2026-06, keine offizielle AI:AT-Position",
     "sektor": "Lebensmittelverarbeitung",
     "sektor_esrs": "ESRS E2",
     "benchmark_ghg_intensitaet_t_co2e_pro_ma": 10.0,
@@ -30,7 +30,7 @@
     "quelle": "synthetisch, angelehnt an EU-Branchendurchschnitte"
   },
   {
-    "_hinweis": "synthetisch / vereinfacht, Stand 2026-06 — keine offizielle AI:AT-Position",
+    "_hinweis": "synthetisch / vereinfacht, Stand 2026-06, keine offizielle AI:AT-Position",
     "sektor": "Software / IT",
     "sektor_esrs": "ESRS G1",
     "benchmark_ghg_intensitaet_t_co2e_pro_ma": 2.0,
@@ -40,7 +40,7 @@
     "quelle": "synthetisch, angelehnt an EU-Branchendurchschnitte"
   },
   {
-    "_hinweis": "synthetisch / vereinfacht, Stand 2026-06 — keine offizielle AI:AT-Position",
+    "_hinweis": "synthetisch / vereinfacht, Stand 2026-06, keine offizielle AI:AT-Position",
     "sektor": "Metallerzeugung",
     "sektor_esrs": "ESRS E1",
     "benchmark_ghg_intensitaet_t_co2e_pro_ma": 28.0,

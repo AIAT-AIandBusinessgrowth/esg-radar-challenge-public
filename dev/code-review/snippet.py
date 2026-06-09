@@ -34,16 +34,16 @@ def benchmark_score(disclosure: Disclosure, benchmark: Benchmark) -> float:
     punkte = 0
     total = 3
 
-    # KPI 1: GHG-Emissionen (Scope 1+2) — niedriger ist besser
+    # KPI 1: GHG-Emissionen (Scope 1+2), niedriger ist besser
     ghg_absolut = disclosure.ghg_scope1_t_co2e + disclosure.ghg_scope2_t_co2e
     if ghg_absolut < benchmark.benchmark_ghg_intensitaet_t_co2e_pro_ma:
         punkte += 1
 
-    # KPI 2: Anteil erneuerbarer Energie — höher ist besser
+    # KPI 2: Anteil erneuerbarer Energie, höher ist besser
     if disclosure.anteil_erneuerbar_prozent > benchmark.benchmark_anteil_erneuerbar_prozent:
         punkte += 1
 
-    # KPI 3: Frauenquote Führung — höher ist besser
+    # KPI 3: Frauenquote Führung, höher ist besser
     if disclosure.frauenquote_fuehrung_prozent > benchmark.benchmark_frauenquote_fuehrung_prozent:
         punkte += 1
 
